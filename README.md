@@ -1,1 +1,1 @@
-# ToyProject
+toy-project
